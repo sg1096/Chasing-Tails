@@ -1,0 +1,131 @@
+body {
+  background-color:#006699;
+}
+h1 {
+  color: black;
+  font-family: 'permanent marker',cursive;
+  font-size: 100px;
+  text-align: center
+}
+p {
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  font-style: oblique;
+}
+button {
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  background-color: white;
+  margin-left: 600px;
+  margin-bottom: 150px;
+}
+.back button {
+  float: left;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+form {
+  float: right;
+  margin-right: 10px;
+}
+img {
+  padding: 1px;
+  border: 10px solid black;
+  background-color: white;
+  align-content: center;
+  margin-top: 150px;
+}
+
+h2 {
+  color: black;
+  font-family: 'permanent marker', cursive;
+  font-size: 60px;
+  text-align: center
+}
+img {
+  padding: 1px;
+  border: 10px solid black;
+  background-color: black;
+  align-content: center;
+}
+a{
+  float:left;
+  width:350px;
+  margin-left: 80px;
+}
+.media-buttons p {
+font-family: 'permanent marker', cursive;
+text-align: center;
+font-size: 30px
+}
+h3 {
+  color: black;
+  font-family: 'permanent marker', cursive;
+  font-size: 60px;
+  text-align: center
+}
+img {
+  padding: 1px;
+  border: 10px solid black;
+  background-color: black;
+  align-content: center;
+}
+h4 {
+  color: black;
+  font-family: 'permanent marker', cursive;
+  font-size: 60px;
+  text-align: center
+}
+img {
+  padding: 1px;
+  border: 10px solid black;
+  background-color: black;
+  align-content: center;
+}
+
+h5 {
+  color: black;
+  font-family: 'permanent marker',cursive;
+  font-size: 60px;
+  text-align: center
+}
+
+img {
+  padding: 1px;
+  border: 10px solid black;
+  background-color: black;
+  align-content: center;
+}
+
+
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:20%;
+}
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:20%;
+}
+
+.media-buttons {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.zoom img {
+  margin: 30px 300px 30px 100px;
+  transition: transform .2s;
+  border: none;
+  background-color: inherit;
+  display: inline;
+}
+.zoom:hover img {
+  transform: scale(1.1);
+}
