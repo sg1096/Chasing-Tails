@@ -161,6 +161,8 @@ a:hover {
 .video-container {
   display: inline;
   margin-left: 200px;
+  max-width: 100%;
+  height: auto;
 }
 .Contact {
   font-family: garamond;
