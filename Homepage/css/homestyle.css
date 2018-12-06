@@ -158,14 +158,10 @@ a:hover {
   margin-left: 100px;
 }
 .video-container {
-  display: inline-block;
+  display: inline;
 }
-.video1 {
-  margin-left: 30px;
-}
-.video2 iframe {
+.blog iframe {
   float: right;
-  right: 30px;
 }
 .Contact {
   font-family: garamond;
