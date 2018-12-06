@@ -144,6 +144,7 @@ a:hover {
 .Advice {
   margin-top: 150px;
   background-image: url("../images/paws.png")
+  background-size: cover;
 }
 .Advice h1 {
   font-family: 'Permanent Marker', cursive;
