@@ -7,8 +7,6 @@
   <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
-  <script src="js/bootstrap.min.js"> </script>
-  <script src="js/jquery-3.3.1.min.js"> </script>
 </head>
 <body>
 <div class= "header navbar-fixed-top">
@@ -18,15 +16,15 @@
 <!-- Navigation bar -->
   <div class= "navbar">
    <a href="homepage.html"> Home </a>
-   <a  id="animation-here" href="#About"> About Us </a>
+   <a id="animation-here" href="#About"> About Us </a>
   <div class= "dropdown">
      <button class= "btn"> Adopt a Pet </button>
      <div class= "dropdown-content">
        <a href="#"> Cats </a>
-       <a href="#"> Dogs </a>
+       <a href="../dogs/index.html"> Dogs </a>
      </div>
   </div>
-    <a href="#pet-advice"> Pet Advice </a>
+    <a href="#pet-advice"> Causes We Support </a>
     <a href="#contact-btns"> Donate  </a>
     <a href="#contact-btns"> Contact Us </a>
     <div class="search-container">
@@ -67,7 +65,14 @@
 </div>
 </div>
 <div class= "Advice">
-  <h1 id= "pet-advice"> Advice for Taking Care of Pets </h1>
+  <h1 id= "pet-advice"> Causes We Support </h1>
+  <p> These are a few causes and organisations that are working towards imporving the lives of animals.
+      Chasing Tails supports these endeavours and strives to work in line with them! </p>
+  <div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yqstKKkNrZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0bTd0PA4ABQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
 </div>
 <div class= "Contact"  id= "contact-btns">
   <h3> Contact Us </h3>
@@ -95,12 +100,5 @@
   </div>
   </div>
 </div>
-<script>
-  $("#animation-here").click(function(){
-      $("#img1").fadeIn();
-      $("#img2").fadeIn("slow");
-      $("#img3").fadeIn(3000);
-  });
-</script>
 </body>
 </html>

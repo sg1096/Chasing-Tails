@@ -141,11 +141,27 @@ a:hover {
   margin-top: -20px;
   background-color: rgb(255, 102, 102);
 }
+.Advice {
+  margin-top: 150px;
+  background-image: url("../images/paws.png")
+}
 .Advice h1 {
   font-family: 'Permanent Marker', cursive;
   font-size: 80px;
-  padding: 30px 80px 30px 50px;
+  padding: 30px 80px 30px 20px;
   text-align: center;
+}
+.Advice p {
+  padding: 50px 30px 20px 100px;
+  font-family: garamond;
+  font-size: 40px;
+  text-align: justify;
+  margin-left: 40px;
+  font-weight: bolder;
+}
+.video-container {
+  display: inline;
+  margin-left: 200px;
 }
 .Contact {
   font-family: garamond;
