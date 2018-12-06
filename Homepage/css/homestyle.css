@@ -209,5 +209,6 @@ a:hover {
   }
   .video-container {
     display: block;
+    align-items: center;
   }
 }
