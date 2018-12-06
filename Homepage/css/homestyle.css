@@ -160,8 +160,8 @@ a:hover {
 }
 .video2 iframe {
   float: right;
-  margin-right: 30px;
-  margin-bottom: 600px;
+  position: absolute;
+  right: 30px;
 }
 .Contact {
   font-family: garamond;
