@@ -167,6 +167,7 @@ a:hover {
   float: right;
   right: 30px;
   position: absolute;
+  bottom: inherit;
 }
 .Contact {
   font-family: garamond;
