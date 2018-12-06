@@ -1,5 +1,6 @@
 body {
   padding-top: 150px;
+  box-sizing: border-box;
 }
 .header {
   width: 100%;
