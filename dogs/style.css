@@ -1,9 +1,6 @@
 body {
   background-color:#006699;
 }
-.search-container {
-  float: right;
-}
 .search-container button {
   float: right;
   padding: 6px;
