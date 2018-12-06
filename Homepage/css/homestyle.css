@@ -162,7 +162,7 @@ a:hover {
   margin-left: 200px;
 }
 .blog iframe {
-  float: right;
+  float: center;
 }
 .Contact {
   font-family: garamond;
