@@ -208,7 +208,6 @@ a:hover {
     width: 100%
   }
   .video-container {
-    display: block;
-    align-items: center;
+  position: fixed;
   }
 }
