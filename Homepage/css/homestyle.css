@@ -101,7 +101,7 @@ a:hover {
   color: rgb(128,0,128);
 }
 .Description{
-  background-color: rgb(255, 102, 102);
+  background-color: #40E0D0;
   margin-top: -20px;
   padding-top: 150px;
 }
@@ -122,7 +122,7 @@ a:hover {
   text-align: center;
 }
 .Statistics-list {
-  background-color: rgb(255, 102, 102);
+  background-color: #40E0D0;
   list-style: none;
   display: inline;
   font-size: 20px;
