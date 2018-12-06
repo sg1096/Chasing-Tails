@@ -141,12 +141,14 @@ a:hover {
   margin-top: -20px;
   background-color: rgb(255, 102, 102);
 }
+.Advice {
+  margin-top: 150px;
+}
 .Advice h1 {
   font-family: 'Permanent Marker', cursive;
   font-size: 80px;
   padding: 30px 80px 30px 50px;
   text-align: center;
-  margin-top: 150px;
 }
 .Advice p {
   padding: 50px 80px 20px 100px;
@@ -162,7 +164,6 @@ a:hover {
   margin-left: 30px;
 }
 .video2 iframe {
-  float: right;
   position: absolute;
   right: 30px;
 }
