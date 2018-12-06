@@ -166,6 +166,7 @@ a:hover {
 .video2 iframe {
   float: right;
   right: 30px;
+  position: absolute;
 }
 .Contact {
   font-family: garamond;
