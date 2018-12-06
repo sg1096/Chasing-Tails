@@ -146,6 +146,14 @@ a:hover {
   font-size: 80px;
   padding: 30px 80px 30px 50px;
   text-align: center;
+  margin-top: 150px;
+}
+.Advice p {
+  padding: 50px 100px 20px 100px;
+  font-family: garamond;
+  font-size: 30px;
+  text-align: justify;
+  margin-left: 100px;
 }
 .Contact {
   font-family: garamond;
