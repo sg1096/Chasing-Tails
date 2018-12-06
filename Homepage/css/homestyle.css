@@ -207,4 +207,7 @@ a:hover {
   body {
     width: 100%
   }
+  .video-container {
+    display: block;
+  }
 }
