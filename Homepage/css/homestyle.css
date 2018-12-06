@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 body {
   padding-top: 150px;
 }
@@ -5,6 +8,14 @@ body {
   width: 100%;
   text-align: center;
   background-color: black;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+iframe {
+  max-width: 100%;
+  height: auto;
 }
 .logo {
   position:absolute;
@@ -161,6 +172,7 @@ a:hover {
 .video-container {
   display: inline;
   margin-left: 200px;
+  background-image: url("../images/paws.png");
 }
 .Contact {
   font-family: garamond;
@@ -200,4 +212,19 @@ a:hover {
 }
 .zoom:hover img {
   transform: scale(1.1);
+}
+@@media (min-width: 600px) {
+  body {
+    width: 100%;
+  }
+  iframe {
+    display: block;
+    align-items: center;
+  }
+  .Description {
+    width: 100%;
+  }
+  .search-container {
+    position: absolute;
+  }
 }

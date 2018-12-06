@@ -1,7 +1,6 @@
 body {
   background-color:#006699;
 }
-
 .search-container {
   float: right;
 }
@@ -15,7 +14,6 @@ body {
   border: none;
   line-height: 20px;
 }
-
 h1 {
   color: black;
   font-family: 'permanent marker',cursive;
