@@ -9,14 +9,6 @@ body {
   text-align: center;
   background-color: black;
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
-iframe {
-  max-width: 100%;
-  height: auto;
-}
 .logo {
   position:absolute;
   left:10px;
@@ -212,19 +204,4 @@ a:hover {
 }
 .zoom:hover img {
   transform: scale(1.1);
-}
-@@media (min-width: 600px) {
-  body {
-    width: 100%;
-  }
-  iframe {
-    display: block;
-    align-items: center;
-  }
-  .Description {
-    width: 100%;
-  }
-  .search-container {
-    position: absolute;
-  }
 }
