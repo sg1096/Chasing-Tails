@@ -161,8 +161,7 @@ a:hover {
 .video-container {
   display: inline;
   margin-left: 200px;
-  width: 100%;
-  height: auto;
+  background-image: url("../images/paws.png");
 }
 .Contact {
   font-family: garamond;
