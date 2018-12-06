@@ -213,4 +213,7 @@ a:hover {
   .Description {
     width: 100%;
   }
+  .search-container {
+    position: absolute;
+  }
 }
