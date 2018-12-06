@@ -209,4 +209,7 @@ a:hover {
   .video-container {
   position: fixed;
   }
+  iframe {
+    align-items: center;
+  }
 }
