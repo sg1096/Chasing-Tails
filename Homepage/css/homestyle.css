@@ -144,7 +144,6 @@ a:hover {
 .Advice {
   margin-top: 150px;
   background-image: url("../images/paws.png")
-  background-size: cover;
 }
 .Advice h1 {
   font-family: 'Permanent Marker', cursive;
@@ -153,11 +152,12 @@ a:hover {
   text-align: center;
 }
 .Advice p {
-  padding: 50px 80px 20px 100px;
+  padding: 50px 30px 20px 100px;
   font-family: garamond;
-  font-size: 30px;
-  text-align: justify;
+  font-size: 40px;
+  text-align: left;
   margin-left: 100px;
+  font-weight: bolder;
 }
 .video-container {
   display: inline;
