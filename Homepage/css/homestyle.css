@@ -158,12 +158,13 @@ a:hover {
   margin-left: 100px;
 }
 .video-container {
-  display: inline;
+  display: inline-block;
 }
 .video1 {
   margin-left: 30px;
 }
 .video2 iframe {
+  float: right;
   position: relative
   right: 30px;
 }
