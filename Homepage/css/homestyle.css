@@ -142,8 +142,8 @@ a:hover {
   background-color: rgb(255, 102, 102);
 }
 .Advice {
-  margin-top: 150px;
-  background-image: url("../images/paws.png")
+  background-image: url("../images/paws.png");
+  padding-top: 150px;
 }
 .Advice h1 {
   font-family: 'Permanent Marker', cursive;
