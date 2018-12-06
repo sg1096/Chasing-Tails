@@ -159,8 +159,7 @@ a:hover {
 }
 .video-container {
   display: inline;
-  margin: 30px 30px 50px 30px;
-  align-items: center;
+  margin-left: 200px;
 }
 .blog iframe {
   float: right;
